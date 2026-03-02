@@ -31,7 +31,7 @@ Scriptet installerer som udgangspunkt:
 - Visual Studio Code
 - Notepad++
 
-Men listen kan nemt udvides eller tilpasses, og er angivet i scriptet med en kommentar. 
+Men listen kan nemt udvides eller tilpasses. 
 
 ## Mangler du en datatekniker-voksenlærling?
 
